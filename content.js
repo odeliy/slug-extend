@@ -1,0 +1,1 @@
+document.getElementById('post_name').setAttribute('size', '60')
